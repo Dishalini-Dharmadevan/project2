@@ -1,0 +1,81 @@
+
+h4, p {
+    font-family: sans-serif;
+}
+.navbar-brand {
+    width: 14%;
+}
+.bg-banner {
+    background-color: #dbf3f5;
+}
+.banner-head, p {
+    text-align: justify;
+}
+.head-color {
+  color: #58b53e;
+}
+.btn-color {
+    background-color: #58b53e !important;
+}
+.com-icon i {
+  font-size: 20px !important;
+  color: #58b53e;
+}
+.bus-count i {
+  font-size: 32px;
+    color: #58b53e;
+    margin-top: 20px;
+}
+.bg-gray {
+  background-color: #e6e6e6;
+}
+.img-cot {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-bottom: 15%;
+}
+.centered {
+  position: absolute;
+  top: 99%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f0f0f0;
+}
+
+.footer { 
+  background-color: #262b25; 
+} 
+
+.footer-content h2 { 
+  color: #fff; 
+} 
+
+.footer-content h5, 
+.footer-content p, 
+.footer-links a { 
+  color: #fff; 
+} 
+
+.footer-links a:hover { 
+  text-decoration: underline; 
+} 
+
+.footer hr { 
+  background-color: #fff; 
+} 
+
+.banner-cnt {
+    border-radius: 2em;
+}
+
+.other-key {
+    background-color: #e6f5f8;
+}
+.bg-call {
+    background-color: #1f6fe5;
+}
+
+.other-key {
+    font-size: 13px;
+}
